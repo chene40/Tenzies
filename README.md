@@ -1,6 +1,6 @@
-# Deploymrnt Via Vercel
+# Deployment Via Vercel
 
-This project can be accessed through the following link: https://tenzies-chene40-mcmasterca.vercel.app/
+This project can be accessed through Vercel with the following link: https://tenzies-chene40-mcmasterca.vercel.app/
 
 # Getting Started with Create React App
 
